@@ -1,5 +1,5 @@
 # YouTube Transcriptions
 
-youtube.com
+See this video for information: https://youtu.be/r7SO-Oq3d5E
 
-http://techlead.tech/ytcaption
+Demo: http://techlead.tech/ytcaption
