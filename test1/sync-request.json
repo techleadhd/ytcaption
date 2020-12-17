@@ -1,0 +1,10 @@
+{
+  "config": {
+      "audioChannelCount": 2,
+      "languageCode": "en-US",
+      "enableWordTimeOffsets": false,
+  },
+  "audio": {
+      "uri":"gs://tl-ytvideos/vfang.wav"
+  }
+}
