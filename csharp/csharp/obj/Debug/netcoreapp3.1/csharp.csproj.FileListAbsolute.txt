@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\csharp\csharp\bin\Debug\netcoreapp3.1\csharp.exe
+C:\Users\Admin\source\repos\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\csharp\csharp\bin\Debug\netcoreapp3.1\csharp.deps.json
+C:\Users\Admin\source\repos\csharp\csharp\bin\Debug\netcoreapp3.1\csharp.runtimeconfig.json
+C:\Users\Admin\source\repos\csharp\csharp\bin\Debug\netcoreapp3.1\csharp.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\csharp\csharp\bin\Debug\netcoreapp3.1\csharp.dll
+C:\Users\Admin\source\repos\csharp\csharp\bin\Debug\netcoreapp3.1\csharp.pdb
+C:\Users\Admin\source\repos\csharp\csharp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.csproj.CopyComplete
+C:\Users\Admin\source\repos\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.dll
+C:\Users\Admin\source\repos\csharp\csharp\obj\Debug\netcoreapp3.1\csharp.pdb
