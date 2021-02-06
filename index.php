@@ -1,7 +1,7 @@
 <?php
 
 # YouTube Transcriber
-# http://techlead.tech/ytcaption/
+# http://techleadpro.com/ytcaption/
 
 function encodeURIComponent($str) {
   # https://stackoverflow.com/questions/1734250/what-is-the-equivalent-of-javascripts-encodeuricomponent-in-php
@@ -17,7 +17,7 @@ if (!match) {
   return;
 }
 var url = regexp.exec(document.body.innerHTML)[1];
-open("http://techlead.tech/ytcaption/caption.php?url=" + encodeURIComponent(url));
+open("http://techleadpro.com/ytcaption/caption.php?url=" + encodeURIComponent(url));
 EOF;
 
 $code = encodeURIComponent($code);
